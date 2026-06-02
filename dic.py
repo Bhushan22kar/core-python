@@ -12,7 +12,7 @@ print("Student Details")
 for key, value in student.items():
     print(key, ":", value)
 
-#using if-elif-else
+#using if-elif-else 
 
 student = {
     "name": "bhushan",
